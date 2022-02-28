@@ -1,0 +1,4 @@
+com\akiang\service\impl\ArticleServiceImpl.class
+com\akiang\domain\entity\Article.class
+com\akiang\mapper\ArticleMapper.class
+com\akiang\service\ArticleService.class
